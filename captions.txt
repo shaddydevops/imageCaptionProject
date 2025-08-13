@@ -1,0 +1,10 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/250px-IBM_logo.svg.png: the image of ibm logo
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IBM_CHQ_-_Oct_2014.jpg/250px-IBM_CHQ_-_Oct_2014.jpg: the image of a building
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png: the image of a green christmas tree
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/20px-Decrease2.svg.png: the image of a heart
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg/250px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg: the image of a man working in a computer lab
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IBM360-67AtUmichWithMikeAlexander.jpg/250px-IBM360-67AtUmichWithMikeAlexander.jpg: the image of a man sitting in a chair
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Saturn_IB_and_V_Instrument_Unit.jpg/250px-Saturn_IB_and_V_Instrument_Unit.jpg: the image of a space shuttle is shown in the text
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IBM_PC-IMG_7271_%28transparent%29.png/250px-IBM_PC-IMG_7271_%28transparent%29.png: the image of a computer with a keyboard
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/IBMinventions.png/250px-IBMinventions.png: the image of a hard disk and a barcode
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/IBM_Beijing%2C_Pangu_Plaza.jpg/250px-IBM_Beijing%2C_Pangu_Plaza.jpg: the image of a building with a large tower

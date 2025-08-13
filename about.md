@@ -128,5 +128,3 @@ MIT License — free to use, modify, and share.
 
 ---
 
-If you want, I can now **convert this into a PDF with proper headings, diagrams, and step-by-step formatting** so it looks like a professional guided project document.
-Do you want me to make that PDF next?
