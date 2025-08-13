@@ -1,7 +1,4 @@
-Got it ✅
-Here’s the **updated README** that explains the Hugging Face (HF) library usage as part of the BLIP model integration. This will be more instructional so that beginners understand how the Hugging Face ecosystem works with this project.
 
----
 
 # 📷 Image Captioning Web App (BLIP Model + Hugging Face)
 

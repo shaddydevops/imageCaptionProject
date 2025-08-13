@@ -1,6 +1,4 @@
-Here’s a professional **README.md** you can include alongside your `automate_url_captioner.py` script:
 
----
 
 # Automated Image Captioning from Webpages
 
